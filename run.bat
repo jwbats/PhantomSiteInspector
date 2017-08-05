@@ -1,0 +1,1 @@
+phantomjs.exe .\PhantomSiteInspector.js urls.txt
